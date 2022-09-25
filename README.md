@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/consuelo-anguita-salinas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="consuelo-anguita-salinas" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Activities</h3>
+<h3 align="left">Activities:</h3>
 <p align="left">
 <a href="https://devchallenges.io/portfolio/ConsuAng" target="blank">devChallenges.io
 </a>
